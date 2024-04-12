@@ -13,6 +13,6 @@ steps:
 
 outputs:
 <p align="center">
-  <img src="/images/server-1.terraform.png" width="600" alt="server1-output">
-  <img src="/images/server2.terraform.png" width="600" alt="server2-output">
+  <img src="/images/outputs.png" width="600" alt="server1-output">
+  <!-- <img src="/images/server2.terraform.png" width="600" alt="server2-output"> -->
 </p>
